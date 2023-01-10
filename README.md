@@ -6,7 +6,7 @@
 
 > This is my first project in Microverse, where I applied Linters, HTML & CSS, Git & Github.
 
-![screenshot](./Screenshot%202023-01-11%20000515.png)
+![screenshot](./screen-shot.png)
 
 This HTML and CSS file just shows a simple H1 Tag, we are just getting started!
 
