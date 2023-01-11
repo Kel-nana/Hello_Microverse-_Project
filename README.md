@@ -75,25 +75,19 @@ Hello_Microverse_Project is a Its a project meant to master my skills in version
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+He/she could through my project see the mistakes I made and hopefully learn.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
+
+- Git in your local machine
+- Code editor (VS code, Atom, etc)
+- Terminal
 
 <!--
 Example command:
@@ -107,6 +101,8 @@ Example command:
 
 Clone this repository to your desired folder:
 
+- git clone git@github.com:Kel-nana/Hello.git
+- cd Hello
 <!--
 Example commands:
 
@@ -114,11 +110,16 @@ Example commands:
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
+
 --->
 
 ### Install
 
-Install this project with:
+npm init -y
+npm install --save-dev hint@7.x
+npx hint .
+npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+npx stylelint "\*_/_.{css,scss}"
 
 <!--
 Example command:
@@ -133,6 +134,8 @@ Example command:
 
 To run the project, execute the following command:
 
+Add the changes you want and feel free to use in your project!
+
 <!--
 Example command:
 
@@ -144,6 +147,9 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
+
+git test
+git status
 
 <!--
 Example command:
@@ -175,29 +181,12 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Kel-nana](https://github.com/Kel-nana)
+- Linkedin: [@kelvin-irungu](https://www.linkedin.com/in/kelvin-irungu-838923249/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
