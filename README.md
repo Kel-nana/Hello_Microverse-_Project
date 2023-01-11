@@ -54,7 +54,6 @@ After you're finished please remove all the comments and instructions!
 - [📝 License](#license)
 <!-- PROJECT DESCRIPTION -->
 
-
 # 📖 [Hello_Microverse_Project] <a name="about-project"></a>
 
 Hello_Microverse_Project is a Its a project meant to master my skills in version control, GitHub flow, pull requests in GitHub.
@@ -206,13 +205,13 @@ Share ideas on how to improve this project.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 > Give credit to everyone who inspired your codebase.
 
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
 
->>>>>>> 71fd8824e4b286731a36c47fd8c04dbd5ab77f65
-I would like to thank Microverse documentation and my team mates for all there resources and support.
+> > > > > > > 71fd8824e4b286731a36c47fd8c04dbd5ab77f65
+> > > > > > > I would like to thank Microverse documentation and my team mates for all there resources and support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
