@@ -52,7 +52,6 @@ After you're finished please remove all the comments and instructions!
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
-
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello_Microverse_Project] <a name="about-project"></a>
@@ -209,7 +208,10 @@ Share ideas on how to improve this project.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Microverse documentation and my team mates for all there resources and support.
+# <<<<<<< HEAD
+
+> > > > > > > 71fd8824e4b286731a36c47fd8c04dbd5ab77f65
+> > > > > > > I would like to thank Microverse documentation and my team mates for all there resources and support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
