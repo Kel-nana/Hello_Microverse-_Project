@@ -8,7 +8,7 @@ div {
   border: 3px solid transparent;
   padding: 10px;
   border-radius: 20px;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  box-shadow: rgba(100, 100, 111, 0.2) 7px 29px;
   margin-top: 20%;
   background-color: antiquewhite;
 }
@@ -17,9 +17,9 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 8em;
-  color: aqua;
+  color: rgb(51, 48, 48);
   font-style: italic;
   background-color: rgba(201, 187, 187, 0.199);
   border-radius: 10px;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  box-shadow: rgba(100, 100, 111, 0.2) 7px 29px;
 }
