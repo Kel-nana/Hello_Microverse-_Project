@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a name="readme-top"></a>
 
 <!--
@@ -61,11 +62,27 @@ Hello_Microverse_Project is a Its a project meant to master my skills in version
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+=======
+<img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+# Hello
+
+> This is my first project in Microverse, where I applied Linters, HTML & CSS, Git & Github.
+
+![screenshot](./screen-shot.png)
+
+This HTML and CSS file just shows a simple H1 Tag, we are just getting started!
+
+## Built With
+>>>>>>> main
 
 - HTML & CSS
 - Linters
 - Git & Github
 
+<<<<<<< HEAD
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -80,10 +97,21 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+=======
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+>>>>>>> main
 - Git in your local machine
 - Code editor (VS code, Atom, etc)
 - Terminal
 
+<<<<<<< HEAD
 <!--
 Example command:
 
@@ -173,11 +201,32 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
+=======
+### Setup
+
+- git clone git@github.com:Kel-nana/Hello.git
+- cd Hello
+
+### Usage
+
+- Add the changes you want and feel free to use in your project!
+
+### Run tests
+
+- Check that all the tests are correctly passed🤝
+
+### Merge
+
+- Merge it so we can all see your work!!🤝
+
+## Authors
+>>>>>>> main
 
 👤 **Author1**
 
 - GitHub: [@Kel-nana](https://github.com/Kel-nana)
 - Linkedin: [@kelvin-irungu](https://www.linkedin.com/in/kelvin-irungu-838923249/)
+<<<<<<< HEAD
 - Twitter: [@kelvin-irungu](https://www.linkedin.com/in/kelvin-irungu-838923249/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -240,3 +289,17 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse documentation and Myself ⭐️
+>>>>>>> main
